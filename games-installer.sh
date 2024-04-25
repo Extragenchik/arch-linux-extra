@@ -8,4 +8,4 @@ yay -Sy --noconfirm protonup-qt
 sudo pacman -Scc --noconfirm
 yay -Scc --noconfirm
 
-sudo reboot
+# sudo reboot

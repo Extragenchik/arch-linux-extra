@@ -134,4 +134,4 @@ DeviceType=mouse
 EOL
 
 chmod +x hyprland-installer.sh
-./hyprland-installer.sh
+# ./hyprland-installer.sh

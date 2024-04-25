@@ -190,4 +190,4 @@ sudo pacman -S --noconfirm  filelight
 sudo pacman -Scc --noconfirm
 yay -Scc --noconfirm
 
-./games-installer.sh
+# ./games-installer.sh

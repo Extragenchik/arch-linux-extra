@@ -65,7 +65,7 @@ cat > ~/.bash_profile << EOL
 #
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
-exec Hyprland
+# exec Hyprland
 EOL
 
 mkdir -p ~/Screenshots
@@ -82,4 +82,4 @@ chmod +x games-installer.sh
 sudo pacman -Scc --noconfirm
 yay -Scc --noconfirm
 
-./gui-apps-installer.sh
+# ./gui-apps-installer.sh
